@@ -10,9 +10,9 @@ Chatly is a real-time chat application built using **React.js** for the frontend
 - 📱 **[Mobile Adaptation](#features)** - Fully responsive design for a seamless mobile experience.
 
 ## 🛠 Technologies Used
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Golang, WebSockets
+- **Backend:** Golang, Gin, WebSockets, GORM
 - **Database:** PostgreSQL
+- **Frontend:** React.js, Tailwind CSS
 - **Tools:** Node.js, Go
 
 ## 🔧 Installation
